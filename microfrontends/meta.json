@@ -10,5 +10,17 @@
     "css": [
       "./microfrontends/microfrontend/static/css/main.6a934dfc.chunk.css"
     ]
+  },
+  "second-microfront": {
+    "js": [
+      "./microfrontends/second-microfront/precache-manifest.c14d3b84e9769212bec7296802e8c11f.js",
+      "./microfrontends/second-microfront/service-worker.js",
+      "./microfrontends/second-microfront/static/js/2.e1a29eba.chunk.js",
+      "./microfrontends/second-microfront/static/js/main.126d1825.chunk.js",
+      "./microfrontends/second-microfront/static/js/runtime-main.0f4272b5.js"
+    ],
+    "css": [
+      "./microfrontends/second-microfront/static/css/main.6a934dfc.chunk.css"
+    ]
   }
 }
