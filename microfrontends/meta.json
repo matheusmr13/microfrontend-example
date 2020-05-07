@@ -11,16 +11,16 @@
       "./microfrontends/microfrontend/static/css/main.6a934dfc.chunk.css"
     ]
   },
-  "second-microfront": {
+  "my-third-micro": {
     "js": [
-      "./microfrontends/second-microfront/precache-manifest.c14d3b84e9769212bec7296802e8c11f.js",
-      "./microfrontends/second-microfront/service-worker.js",
-      "./microfrontends/second-microfront/static/js/2.e1a29eba.chunk.js",
-      "./microfrontends/second-microfront/static/js/main.126d1825.chunk.js",
-      "./microfrontends/second-microfront/static/js/runtime-main.0f4272b5.js"
+      "./microfrontends/my-third-micro/precache-manifest.38b008fdafc48e7e2f40c9fec8b18035.js",
+      "./microfrontends/my-third-micro/service-worker.js",
+      "./microfrontends/my-third-micro/static/js/2.17003b2e.chunk.js",
+      "./microfrontends/my-third-micro/static/js/main.b9809679.chunk.js",
+      "./microfrontends/my-third-micro/static/js/runtime-main.8c71a59b.js"
     ],
     "css": [
-      "./microfrontends/second-microfront/static/css/main.6a934dfc.chunk.css"
+      "./microfrontends/my-third-micro/static/css/main.6a934dfc.chunk.css"
     ]
   }
 }
